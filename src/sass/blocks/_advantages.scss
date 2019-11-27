@@ -1,0 +1,43 @@
+.advantages {
+  min-height: 470px;
+  background-color: #f6f6f6;
+  padding: 70px 0 95px 0;
+  &__wrapper {
+    display: block;
+    margin: 0 auto;
+  }
+  &__sections {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+  }
+  &__section {
+    width: 240px;
+    color: #0d0d0d;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    img {
+      display: block;
+      width: 70px;
+      height: 70px;
+      margin: 0 auto;
+    }
+    span {
+      display: block;
+      text-align: center;
+      color: #0d0d0d;
+      font-size: 18px;
+      font-weight: 700;
+      margin: 38px 0 25px 0;
+    }
+    span.school {
+      display: inline;
+      font-size: 14px;
+      font-weight: 300;
+      color: #ff0000;
+      text-decoration: underline;
+    }
+  }
+}
+
