@@ -43,7 +43,7 @@
     display: none;
     justify-content: space-between;
     flex-wrap: wrap;
-    &_active{
+    &_active {
       display: flex;
     }
   }
@@ -115,7 +115,7 @@
     }
     &__content {
       width: 50%;
-      transform: translateX(-100%);
+      transform: translateX(-101%);
       margin-right: 0px;
       transition: 0.5s all;
       &_active {
@@ -134,7 +134,7 @@
       list-style-type: none;
       transition: 0.5s all;
       &_active {
-        transform: translateX(-100%);
+        transform: translateX(-101%);
         margin-right: 20px;
         margin-left: 0px;
       }
