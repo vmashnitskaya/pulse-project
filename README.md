@@ -1,1 +1,1 @@
-https://vmashnitskaya.github.io/pulse-project
+https://vmashnitskaya.github.io/pulse-project/src
